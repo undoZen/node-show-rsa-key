@@ -1,6 +1,6 @@
 {
   "name": "show-rsa-key",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "show rsa key from $HOME/.ssh/id_rsa(.pub) for node-rsa module",
   "main": "index.js",
   "bin": "index.js",
