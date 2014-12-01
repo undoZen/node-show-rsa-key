@@ -1,0 +1,23 @@
+{
+  "name": "show-rsa-key",
+  "version": "0.0.0",
+  "description": "show rsa key from $HOME/.ssh/id_rsa(.pub) for node-rsa module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/undoZen/node-show-rsa-key.git"
+  },
+  "keywords": [
+    "rsa",
+    "node-rsa"
+  ],
+  "author": "undoZen <opensource@undozen.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/undoZen/node-show-rsa-key/issues"
+  },
+  "homepage": "https://github.com/undoZen/node-show-rsa-key"
+}
